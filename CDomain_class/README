@@ -1,0 +1,1 @@
+Implementing a class using inheritance to work with a two-dimensional polygonal area. The area class contains methods such as intersection and union of areas. In CDomain.cpp implemented a simple interface for working with areas (help, creation, initialization, etc.)
